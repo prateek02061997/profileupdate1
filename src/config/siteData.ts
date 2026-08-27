@@ -1,4 +1,4 @@
-const cvPdfUrl = '/Prateek_Parihar_CV_Generic_1.pdf';
+const cvPdfUrl = '/profileupdate1/Prateek_Parihar_CV_Generic_1.pdf';
 
 export interface ChangeItem {
   area: string;
